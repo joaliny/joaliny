@@ -93,4 +93,45 @@ Busco evoluir constantemente meus conhecimentos em **desenvolvimento back-end**,
 <br/>
 <br/>
 
+### 🔹 Back-end
+- PHP  
+- Laravel  
+- Python  
+- Django  
+- Flask  
+
+### 🔹 Front-end (apoio)
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+
+### 🔹 Banco de Dados
+- MySQL  
+
+### 🔹 Ferramentas
+- Git  
+- GitHub  
+- Laragon  
+- VS Code  
+- phpMyAdmin  
+
+---
+
+## 📚 Em constante aprendizado
+Atualmente focada em:
+- Desenvolvimento back-end
+- Criação de APIs REST
+- Boas práticas de código
+- Segurança da informação
+- Estruturação e organização de sistemas web
+
+---
+
+## 📫 Contato
+- 📧 Email: **joalinyfurtado87@gmail.com**
+- 💼 GitHub: [github.com/joaliny](https://github.com/joaliny)
+
+✨ *Sempre aberta a aprender, evoluir e compartilhar conhecimento.*
+
 
