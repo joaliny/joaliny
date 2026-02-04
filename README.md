@@ -2,8 +2,12 @@
 
 **`Desenvolvedora Back-end em Formação`**
 
-Me chamo Joaliny Oliveira Furtado, sou estudante de Sistemas de Informação e apaixonada por tecnologia. Atualmente, estudo e pratico desenvolvimento web, com foco em back-end.
-Tenho conhecimentos em PHP, Python, Laravel, Django, Flask, além de HTML, CSS, JavaScript, e desenvolvo projetos acadêmicos e pessoais que contribuem para meu aprendizado e evolução na área
+Me chamo Joaliny Oliveira Furtado, Sou **universitária e desenvolvedora back-end em formação**, com interesse no desenvolvimento de sistemas web e na criação de soluções funcionais, organizadas e eficientes. Tenho afinidade com **lógica de programação**, **estruturação de dados** e **integração com bancos de dados**.
+
+Atualmente estou aprendendo e praticando **PHP com Laravel** e **Python com Django e Flask**, desenvolvendo projetos acadêmicos e pessoais que envolvem CRUDs, autenticação de usuários, validação de formulários, organização de rotas e controllers, além da comunicação com bancos de dados relacionais.
+
+Busco evoluir constantemente meus conhecimentos em **desenvolvimento back-end**, boas práticas de código, segurança da informação e estruturação de aplicações web. Tenho interesse em aprofundar meus estudos em **APIs**, **arquitetura de sistemas** e **frameworks modernos**, sempre com foco em aprendizado contínuo e crescimento profissional.
+
 
 ---
 
